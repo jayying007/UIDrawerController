@@ -1,6 +1,6 @@
 //
 //  ViewController.h
-//  UIDrawerController
+//  UIDrawerControllerDemo
 //
 //  Created by janezhuang on 2022/5/21.
 //
@@ -9,6 +9,4 @@
 
 @interface ViewController : UIViewController
 
-
 @end
-
