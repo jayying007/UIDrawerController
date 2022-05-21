@@ -1,12 +1,19 @@
 //
 //  UIDrawerController.h
-//  UIDrawerControllerDemo
+//  UIDrawerController
 //
 //  Created by janezhuang on 2022/5/21.
 //
 
 #import <UIKit/UIKit.h>
 
+//! Project version number for UIDrawerController.
+FOUNDATION_EXPORT double UIDrawerControllerVersionNumber;
+
+//! Project version string for UIDrawerController.
+FOUNDATION_EXPORT const unsigned char UIDrawerControllerVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <UIDrawerController/PublicHeader.h>
 @class UIDrawerController;
 
 @interface UIViewController (UIDrawerController)
